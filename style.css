@@ -1,0 +1,204 @@
+*{
+    /* background-color:rgb(216, 188, 151); */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    /* background-image: url(https://wallpapers.com/images/hd4/milky-way-star-night-starry-sky-hd-wallpaper-2iao66cyoa1vzcaf.jpg); */
+}
+
+/* .box{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height:800px;
+  position: relative;
+  text-align: center;
+  color: white;
+} */
+
+/* bbbbbbbbbbbbbbbbbbbbbbb */
+
+/* Container holding the image and the text */
+.container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height:800px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 80px;
+  left: 160px;
+}
+.top-left1 {
+  position: absolute;
+  top: 810px;
+  left: 500px;
+}
+.top-left2 {
+  position: absolute;
+  top: 210px;
+  left: 230px;
+}
+.top-left3 {
+  position: absolute;
+  top: 450px;
+  left: 110px;
+}
+.top-left4 {
+  position: absolute;
+  top: 700px;
+  left: 340px;
+}
+.top-left5 {
+  position: absolute;
+  top: 600px;
+  left: 140px;
+}
+.top-left6 {
+  position: absolute;
+  top: 509px;
+  left: 400px;
+}
+.top-left7 {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.top-right1 {
+  position: absolute;
+  top: 8px;
+  right: 160px;
+}
+.top-right2 {
+  position: absolute;
+  top: 80px;
+  right: 245px;
+}
+.top-right3 {
+  position: absolute;
+  top: 810px;
+  right: 400px;
+}
+.top-right4 {
+  position: absolute;
+  top: 210px;
+  right: 234px;
+}
+.top-right5 {
+  position: absolute;
+  top: 450px;
+  right: 500px;
+}
+.top-right6 {
+  position: absolute;
+  top: 550px;
+  right: 367px;
+}
+.top-right7 {
+  position: absolute;
+  top: 424px;
+  right: 256px;
+}
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 509px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/*  bbbbbbbbbbbbbbbbbbbbbbbbb */
+
+.box1{
+  display: flex;
+  margin: 5px;
+  padding: 10px;
+  background-color: aquamarine;
+  /* justify-content: center; */
+  width: 75%;
+  height: 100%;
+  position: fixed; /* or absolute */
+  /* top: 20%;
+  left: 15%; */
+}
+
+.box2{
+  width: 500px;
+}
+
+.box31{
+  margin: 3px;
+  padding-bottom: 7px;
+  padding: 1px;
+  background-color: blue;
+
+}
+
+.err{
+  margin: 0;
+  padding: 0;
+  font-size: 10em;
+}
+
+/* // .modal {
+//   background-color:rgb(239, 216, 186);
+//     border-radius: 10px;
+//     color: #333;
+//     font-family: sans-serif;
+//     line-height: 1.5;
+//     max-width: 50%;
+//     padding: 1rem 2rem;
+//     a {
+//       color: #bf0222;
+//     }
+//   } */
+/*  */
+/* //   @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+//     .modal {
+//       -webkit-backdrop-filter: blur(10px);
+//       backdrop-filter: blur(8px);
+//       background-color: rgba(255, 255, 255, 0.5);  
+//     }
+//   }
+  
+//   html,
+//   body {
+//     height: 100%;
+//     width: 100%;
+//     background-color:green;
+//   }
+  
+//   .container {
+//     align-items: center;
+//     display: flex;
+//     justify-content: center;
+//     height: 100%;
+//     width: 100%;
+//   } */
